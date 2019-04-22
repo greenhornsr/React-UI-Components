@@ -1,1 +1,39 @@
 /* All styles for your header Components live here */
+.HeaderContainer{
+    /* width: 80%; */
+    display: flex;
+    padding: 1rem;
+    border: 1px solid red;
+    /* background-color: silver; */
+}
+
+.ImageThumbnail{
+    width: 10%;
+    border: 1px solid red;
+}
+
+.HeaderContent{
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid red;
+}
+
+.HeaderContent p{
+    font-size: 1.5rem;
+}
+
+.HeaderTitle{
+    margin: 0;
+    font-size: 2rem;
+}
+
+.HeaderTitle a{
+    text-decoration: none;
+    color: silver;
+    font-size: 1.5rem;
+}
+
+.HeaderTitle time{
+    font-size: 1.5rem;
+}
+
