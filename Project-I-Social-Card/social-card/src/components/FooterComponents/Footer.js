@@ -5,7 +5,6 @@ import './Footer.css';
 function Footer(){
     return(
         <section className="Footer">
-
             <span><a href=""><i class="far fa-comments img-icons"></i></a></span>
             <span><a href=""><i class="fas fa-sync-alt img-icons"></i></a></span>
             <span><a href=""><i class="far fa-heart img-icons"></i></a></span>
@@ -13,5 +12,6 @@ function Footer(){
         </section>
     )
 }
+
 
 export default Footer
