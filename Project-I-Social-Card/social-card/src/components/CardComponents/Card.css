@@ -4,6 +4,11 @@
     /* border: 1px solid red; */
 }
 
+.CardContent{
+    margin: 0 1rem;
+    /* border: 1px solid red; */
+}
+
 h3{
     font-size: 2rem;
 }

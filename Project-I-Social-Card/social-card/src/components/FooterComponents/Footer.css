@@ -1,0 +1,17 @@
+.Footer{
+    width: 85%;
+    margin: 0 auto;
+    display: flex;
+    /* border: 1px solid red; */
+}
+
+.img-icons{
+    margin: 0rem;
+    padding: 0rem;
+    /* border: 1px solid red; */
+}
+
+span{
+    text-align: center;
+    font-size: 2rem;
+}
