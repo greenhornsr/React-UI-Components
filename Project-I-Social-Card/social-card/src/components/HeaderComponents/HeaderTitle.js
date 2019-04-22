@@ -3,6 +3,13 @@ import './Header.css';
 import * as moment from 'moment';
 
 function HeaderTitle(){
+    // Retrieves Month and Day only
+    // let datentime = moment().format('MMMM Do');
+
+    // Retrieves Month, Day Time
+    // let datentime = moment().format('MMMM Do YYYY, h:mm:ss a');
+
+    // Retrieves WeekDay, Month, Day, Time 
     let datentime = moment().format('LLLL');
     console.log(datentime);
     return (
