@@ -11,7 +11,16 @@
     /* border: 1px solid red; */
 }
 
-span{
+.img-icons{
     text-align: center;
     font-size: 3rem;
+    color: black;
+}
+
+i.fa-comments{
+    color: blue;
+}
+
+i.fa-heart{
+    color: red;
 }
