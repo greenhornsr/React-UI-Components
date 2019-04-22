@@ -17,7 +17,11 @@ p{
     font-size: 1.5rem;
 }
 
-a{
+a, .aReactTag{
     text-decoration: none;
+    color: black;
+}
+
+.aReactTag{
     color: silver;
 }
