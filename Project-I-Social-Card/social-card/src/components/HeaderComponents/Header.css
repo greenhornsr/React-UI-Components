@@ -3,19 +3,19 @@
     /* width: 80%; */
     display: flex;
     padding: 1rem;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     /* background-color: silver; */
 }
 
 .ImageThumbnail{
     width: 10%;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 .HeaderContent{
     display: flex;
     flex-wrap: wrap;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 .HeaderContent p{

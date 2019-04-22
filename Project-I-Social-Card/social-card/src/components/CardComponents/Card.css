@@ -1,1 +1,18 @@
 /* All styles for your Card Components live here */
+.CardContainer{
+    padding: 1rem;
+    /* border: 1px solid red; */
+}
+
+h3{
+    font-size: 2rem;
+}
+
+p{
+    font-size: 1.5rem;
+}
+
+a{
+    text-decoration: none;
+    color: silver;
+}
