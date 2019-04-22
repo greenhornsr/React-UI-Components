@@ -1,6 +1,5 @@
 /* All styles for your header Components live here */
 .HeaderContainer{
-    /* width: 80%; */
     display: flex;
     padding: 1rem;
     /* border: 1px solid red; */
@@ -19,7 +18,9 @@
 }
 
 .HeaderContent p{
+    margin: 0 5rem 0 1rem;
     font-size: 1.5rem;
+    /* border: 1px solid red; */
 }
 
 .HeaderTitle{
@@ -28,12 +29,14 @@
 }
 
 .HeaderTitle a{
+    padding-left: 2rem;
     text-decoration: none;
     color: silver;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
 }
 
 .HeaderTitle time{
-    font-size: 1.5rem;
+    padding-left: 2rem;
+    font-size: 1.3rem;
 }
 
