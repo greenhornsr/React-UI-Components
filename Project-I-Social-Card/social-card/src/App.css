@@ -4,8 +4,12 @@
 */
 *{
   width: 95%;
-  margin: 1rem auto;
-  /* background-color: yellow; */
+  /* border: 1px solid red; */
+  /* background-color: pink; */
+}
+
+html{
+  /* border: 1px solid red; */
 }
 
 .root{
