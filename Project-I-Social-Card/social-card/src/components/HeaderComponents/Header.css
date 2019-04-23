@@ -9,6 +9,8 @@
 
 .ImageThumbnail{
     width: 10%;
+    padding-top: 2.5rem;
+    align-content: center;
     /* border: 1px solid red; */
 }
 
