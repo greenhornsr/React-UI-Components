@@ -1,0 +1,17 @@
+.numberButtons, .actionButtons{
+    width: 100%;
+    border: 1px solid red;
+    .r2{
+        color: black;
+        background-color: red;
+        // display: none;
+    }
+    .aButton{
+        height: 2rem; 
+        width: 10rem;
+        color: black;
+        background-color: white;
+    }
+}
+
+
