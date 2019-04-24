@@ -1,0 +1,25 @@
+
+
+.numberButtons{
+    width: 24.8%;
+    // border: 1px solid red;
+    .numButs{
+        width: 100%;
+        height: 100%;
+        font-size: 5rem;
+    }
+}
+
+.actionButtons{
+    width: 74.4%;
+    // border: 1px solid green;
+    .cz{
+        width: 100%;
+        height: 100%;
+        font-size: 5rem;
+        // border: 1px solid blue;
+        // &:first-child{
+        //     color: silver;
+        // }
+    }
+}

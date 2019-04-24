@@ -1,5 +1,14 @@
+html{
+  width: 60rem;
+  margin: 0 auto;
+  font-size: 62.5%;
+  /* border: 1px solid red; */
+  /* background-color: yellow; */
+}
+
 body {
   margin: 0;
   padding: 0.4rem;
   font-family: sans-serif;
 }
+

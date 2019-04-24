@@ -1,1 +1,46 @@
 /* All styles for your header Components live here */
+.HeaderContainer{
+    width: 100%;
+    display: flex;
+    padding: 1rem;
+    /* border: 1px solid red; */
+    /* background-color: silver; */
+}
+
+.ImageThumbnail{
+    width: 10%;
+    padding-top: 2.5rem;
+    align-content: center;
+    /* border: 1px solid red; */
+}
+
+.HeaderContent{
+    padding: 0 .5rem;
+    display: flex;
+    flex-wrap: wrap;
+    /* border: 1px solid red; */
+}
+
+.HeaderContent p{
+    margin: 0 5rem 0 1rem;
+    font-size: 1.5rem;
+    /* border: 1px solid red; */
+}
+
+.HeaderTitle{
+    margin: 0 1rem;
+    font-size: 2rem;
+}
+
+.HeaderTitle a{
+    padding-left: 2rem;
+    text-decoration: none;
+    color: silver;
+    font-size: 1.3rem;
+}
+
+.HeaderTitle time{
+    padding-left: 2rem;
+    font-size: 1.3rem;
+}
+
