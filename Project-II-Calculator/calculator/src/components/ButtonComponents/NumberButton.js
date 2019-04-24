@@ -3,11 +3,11 @@ import './Button.scss';
 
 const NumberButton = props => {
     return (
-        <section className="numberButtons">
-            <section className='rows r2'>
-                <button className='rows cz'>{props.banana}</button>
+        // <section className="buttonContainer">
+            <section className="numberButtons">
+                <button className='numButs'>{props.banana}</button>
             </section>
-        </section>
+        // </section>
     )
 }
 

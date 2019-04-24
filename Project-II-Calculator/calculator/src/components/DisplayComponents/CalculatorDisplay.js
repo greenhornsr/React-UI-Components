@@ -15,8 +15,8 @@ const calcTexts = [
 const CalculatorDisplay = () => {
     return (
         <section className="calcDisplay">
-            <section className='rows r1'><h1>0</h1></section>
-                <section>
+            <section className='row1'><h1>0</h1></section>
+                <section className="buttonContainer">
                     {calcTexts.map(array => 
                         array.map(text =>{
                             return (
